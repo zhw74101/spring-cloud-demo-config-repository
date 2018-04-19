@@ -6,5 +6,5 @@ spring:
   application:
     name: cloud-client-2
 
-foo: 12345
+foo: 123456
 
