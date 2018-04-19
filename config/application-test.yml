@@ -8,3 +8,6 @@ spring:
 
 foo: 1234567888999
 
+management:
+  security:
+    enabled: false
