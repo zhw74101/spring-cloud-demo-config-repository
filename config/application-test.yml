@@ -6,28 +6,6 @@ spring:
   application:
     name: cloud-client-2
 
-
-#eureka:
-##  instance:
-##    hostname: paer
-#  client:
-#    serviceUrl:
-#      defaultZone: http://paer:8761/eureka
-
-=======
-server:
-  port: 8763
-
-spring:
-  application:
-    name: cloud-client-2
-
-
-#eureka:
-##  instance:
-##    hostname: paer
-#  client:
-#    serviceUrl:
-#      defaultZone: http://paer:8761/eureka
+foo: 123
 
 >>>>>>> ef9524fc43a18d6310855de7789b30f90b193cbb
