@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 server:
   port: 8763
 
@@ -8,4 +8,3 @@ spring:
 
 foo: 123
 
->>>>>>> ef9524fc43a18d6310855de7789b30f90b193cbb
