@@ -6,7 +6,7 @@ spring:
   application:
     name: cloud-client-2
 
-foo: 1234
+foo: 1234555
 
 management:
   security:
