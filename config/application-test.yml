@@ -11,3 +11,10 @@ foo: 1234567888999
 management:
   security:
     enabled: false
+    
+spring:
+  rabbitmq:
+    host: 47.100.169.40
+    port: 15672
+    username: admin
+    password: admin
