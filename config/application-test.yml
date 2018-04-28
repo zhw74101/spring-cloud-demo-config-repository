@@ -5,6 +5,8 @@ server:
 spring:
   application:
     name: cloud-client-2
+  zipkin:
+    base-url: http://localhost:8777
 
 foo: 1234555
 
