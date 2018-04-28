@@ -7,6 +7,7 @@ spring:
     name: cloud-client-2
   zipkin:
     base-url: http://localhost:8777
+    enabled: true
 
 foo: 1234555
 
